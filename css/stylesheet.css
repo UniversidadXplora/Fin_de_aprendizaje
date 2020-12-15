@@ -51,6 +51,15 @@ body { margin:0; padding:0; overflow-y: hidden; }
     opacity: 0;
 }
 
+#inst{
+    width: 432px;
+    height: 184px;
+    position: absolute;
+    top: 750px;
+    left: 1320px;
+    opacity: 1;
+}
+
 #podium{
     width: 1130px;
     height: 1284px;
@@ -92,10 +101,10 @@ body { margin:0; padding:0; overflow-y: hidden; }
 }
 
 #logro1{
-    width: 357px;
-    height: 787px;
+    width: 336px;
+    height: 771px;
     position: absolute;
-    top: -20px;
+    top: -190px;
     left: 4830px;
     opacity: 0;
     z-index: 1;
@@ -146,8 +155,8 @@ body { margin:0; padding:0; overflow-y: hidden; }
     width: 336px;
     height: 771px;
     position: absolute;
-    top: -100px;
-    left: 7890px;
+    top: -290px;
+    left: 7750px;
     opacity: 0;
     z-index: 1;
 
@@ -159,7 +168,7 @@ body { margin:0; padding:0; overflow-y: hidden; }
     height: 1080px;
     top: 0;
     left: 0;
-    background-image: url("../img/Fondofull.png");
+    background-image: url("../img/fondofull1.png");
     background-repeat: no-repeat;
 }
 
@@ -183,9 +192,9 @@ body { margin:0; padding:0; overflow-y: hidden; }
 .title2{
     width: 470px;
     font-size: 30px;
-    color: #E12726;
+    color: #fff;
     margin: 0;
-    margin-top: -500px;
+    margin-top: -592px;
     font-family: 'open_sansbold';
     margin-left: 5210px;
 }
@@ -195,8 +204,8 @@ body { margin:0; padding:0; overflow-y: hidden; }
     color:#E12726;
     margin: 0;
     font-family: 'open_sansbold';
-    margin-left: 9860px;
-    margin-top: -730px;
+    margin-left: 10670px;
+    margin-top: -560px;
 }
 
 .p1{
@@ -214,7 +223,7 @@ body { margin:0; padding:0; overflow-y: hidden; }
     font-size: 23px;
     color: #fff;
     margin: 0;
-    margin-top: -80px;
+    margin-top: 0px;
     font-family: 'open_sanslight';
     margin-left: 5950px
 }
@@ -252,11 +261,11 @@ body { margin:0; padding:0; overflow-y: hidden; }
 .p6{
     width: 390px;
     font-size: 23px;
-    color: #E12726;
+    color: #fff;
     margin: 0;
-    margin-top: -125px;
+    margin-top: -315px;
     font-family: 'open_sanslight';
-    margin-left: 7930px
+    margin-left: 7750px;
 }
 
 .sub{
@@ -265,11 +274,11 @@ body { margin:0; padding:0; overflow-y: hidden; }
 
 
 #stories{
-    width: 432px;
-    height: 680px;
+    width: 570px;
+    height: 684px;
     position: absolute;
-    top: 49px;
-    left: 8745px;
+    top: 144px;
+    left: 8822px;
     opacity: 1;
     z-index: 1;
     cursor: pointer;
@@ -283,7 +292,7 @@ body { margin:0; padding:0; overflow-y: hidden; }
     height: 196px;
     position: absolute;
     top: 220px;
-    left: 10583px;
+    left: 11431px;
     opacity: 0;
     z-index: 1;
 }
@@ -292,8 +301,8 @@ body { margin:0; padding:0; overflow-y: hidden; }
     width: 143px;
     height: 163px;
     position: absolute;
-    top: 109px;
-    left: 10895px;
+    top: 131px;
+    left: 11744px;
     opacity: 0;
     z-index: 1;
 
@@ -303,8 +312,8 @@ body { margin:0; padding:0; overflow-y: hidden; }
     width: 151px;
     height: 173px;
     position: absolute;
-    top: 436px;
-    left: 11047px;
+    top: 472px;
+    left: 11895px;
     opacity: 0;
     z-index: 1;
 
@@ -313,8 +322,8 @@ body { margin:0; padding:0; overflow-y: hidden; }
     width: 173px;
     height: 196px;
     position: absolute;
-    top: 309px;
-    left: 11298px;
+    top: 316px;
+    left: 12145px;
     opacity: 0;
     z-index: 1;
 
@@ -326,8 +335,8 @@ body { margin:0; padding:0; overflow-y: hidden; }
     color: #E12726;
     margin: 0;
     font-family: 'open_sanslight';
-    margin-top: 200px;
-    margin-left: 10553px;
+    margin-top: 290px;
+    margin-left: 11403px;
 }
 
 .p8{
@@ -337,7 +346,7 @@ body { margin:0; padding:0; overflow-y: hidden; }
     margin: 0;
     font-family: 'open_sanslight';
     margin-top: -610px;
-    margin-left: 11075px;
+    margin-left: 11930px;
 }
 
 .p9{
@@ -347,17 +356,17 @@ body { margin:0; padding:0; overflow-y: hidden; }
     margin: 0;
     font-family: 'open_sanslight';
     margin-top: 516px;
-    margin-left: 11047px;
+    margin-left: 11881px;
 }
 
 .p10{
-    width: 390px;
+    width: 300px;
     font-size: 23px;
     color: #E12726;
     margin: 0;
     font-family: 'open_sanslight';
-    margin-top: -380px;
-    margin-left: 11523px;
+    margin-top: -520px;
+    margin-left: 12373px;   
 }
 
 
