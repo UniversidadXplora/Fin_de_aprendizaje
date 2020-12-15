@@ -450,3 +450,12 @@ body { margin:0; padding:0;
     font-size: 20px; 
     text-decoration:underline;
 }
+#confetti{
+    background: transparent;
+    height: 100%;
+    left: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: -1;
+  }
