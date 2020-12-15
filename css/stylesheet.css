@@ -39,7 +39,7 @@ b{
 
 body { margin:0; padding:0;
     overflow-y: hidden;
-    width: 15000px!important;
+    width: 19940px!important;
     height: 1080px!important;
     position: relative;
     background-image: url("../img/fondofull1.png");
@@ -210,7 +210,24 @@ body { margin:0; padding:0;
     margin: 0;
     font-family: 'open_sansbold';
     margin-left: 10670px;
-    margin-top: -560px;
+    margin-top: -460px;
+}
+.title4{
+    font-size: 100px;
+    color:#fff;
+    margin: 0;
+    font-family: 'open_sansbold';
+    margin-left: 12730px;
+    margin-top: -540px;
+}
+
+.title5{
+    font-size: 100px;
+    color:#fff;
+    margin: 0;
+    font-family: 'open_sansbold';
+    margin-left: 14900px;
+    margin-top: -760px;
 }
 
 .p1{
@@ -365,23 +382,71 @@ body { margin:0; padding:0;
 }
 
 .p10{
-    width: 300px;
-    font-size: 23px;
+    width: 260px;
+    font-size: 20px;
     color: #E12726;
     margin: 0;
     font-family: 'open_sanslight';
     margin-top: -520px;
-    margin-left: 12373px;   
+    margin-left: 12373px;
+}
+
+.p11{
+    width: 390px;
+    font-size: 23px;
+    color: #fff;
+    margin: 0;
+    font-family: 'open_sanslight';
+    margin-top: -115px;
+    margin-left: 14181px;
+}
+
+.p12{
+    width: 350px;
+    font-size: 23px;
+    color: #fff;
+    margin: 0;
+    font-family: 'open_sanslight';
+    margin-top: 315px;
+    margin-left: 13801px;
+}
+
+#prop1{
+    width: 371px;
+    height: 371px;
+    position: absolute;
+    top: 60px;
+    left: 13771px;
+    opacity: 1;
+    z-index: 1;
+}
+
+#prop2{
+    width: 371px;
+    height: 371px;
+    position: absolute;
+    top: 490px;
+    left: 13371px;
+    opacity: 1;
+    z-index: 1;
 }
 
 
 
-@media only screen and (max-width: 600px) {
-    #popup{
-        position:absolute; top:0; bottom:0; width:100%;
-    }
+.propositos{
+    background-color: #FFF0DE;
+    width: 800px;
+    height: 400px;
+    padding: 50px;
+    border-radius: 30px;
+    margin-left: 15800px;
     
-    #content_popup p{
-        font-size: 22px/26px;
-    }
+}
+
+.propositos p{
+    
+    color: #E12726;
+    font-family: 'open_sanslight'; 
+    font-size: 20px; 
+    text-decoration:underline;
 }
