@@ -26,11 +26,24 @@
 
 }
 
+html{ position: absolute!important;}
+
+html, body{
+    margin: 0 auto;
+
+}
+
 b{
     font-family: 'open_sansbold'!important;
 }
 
-body { margin:0; padding:0; overflow-y: hidden; }
+body { margin:0; padding:0;
+    overflow-y: hidden;
+    width: 15000px!important;
+    height: 1080px!important;
+    position: relative;
+    background-image: url("../img/fondofull1.png");
+    background-repeat: no-repeat; }
 
 #portada{
     height: 100%;
@@ -162,15 +175,7 @@ body { margin:0; padding:0; overflow-y: hidden; }
 
 }
 
-#container{
-    position: relative;
-    width: 15000px;
-    height: 1080px;
-    top: 0;
-    left: 0;
-    background-image: url("../img/fondofull1.png");
-    background-repeat: no-repeat;
-}
+
 
 .title{
     font-size: 100px;
