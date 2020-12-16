@@ -42,7 +42,7 @@ body { margin:0; padding:0;
     width: 19940px!important;
     height: 1080px!important;
     position: relative;
-    background-image: url("../img/fondofull1.png");
+    background-image: url("../img/fondofullf.png");
     background-repeat: no-repeat; }
 
 #portada{
@@ -64,11 +64,20 @@ body { margin:0; padding:0;
     opacity: 0;
 }
 
+#cardf{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 120px;
+    left: 18690px;
+    opacity: 1;
+}
+
 #inst{
     width: 432px;
     height: 184px;
     position: absolute;
-    top: 750px;
+    top: 350px;
     left: 1320px;
     opacity: 1;
 }
@@ -230,6 +239,15 @@ body { margin:0; padding:0;
     margin-top: -760px;
 }
 
+.title6{
+    font-size: 80px;
+    color:#fff;
+    margin: 0;
+    font-family: 'open_sansbold';
+    margin-left: 16980px;
+    margin-top: -880px;
+}
+
 .p1{
     width: 420px;
     font-size: 23px;
@@ -313,7 +331,7 @@ body { margin:0; padding:0;
     width: 173px;
     height: 196px;
     position: absolute;
-    top: 220px;
+    top: 281px;
     left: 11431px;
     opacity: 0;
     z-index: 1;
@@ -323,7 +341,7 @@ body { margin:0; padding:0;
     width: 143px;
     height: 163px;
     position: absolute;
-    top: 131px;
+    top: 175px;
     left: 11744px;
     opacity: 0;
     z-index: 1;
@@ -334,7 +352,7 @@ body { margin:0; padding:0;
     width: 151px;
     height: 173px;
     position: absolute;
-    top: 472px;
+    top: 502px;
     left: 11895px;
     opacity: 0;
     z-index: 1;
@@ -344,7 +362,7 @@ body { margin:0; padding:0;
     width: 173px;
     height: 196px;
     position: absolute;
-    top: 316px;
+    top: 369px;
     left: 12145px;
     opacity: 0;
     z-index: 1;
@@ -404,11 +422,31 @@ body { margin:0; padding:0;
 .p12{
     width: 350px;
     font-size: 23px;
-    color: #fff;
+    color: #E12726;
     margin: 0;
     font-family: 'open_sanslight';
     margin-top: 315px;
     margin-left: 13801px;
+}
+
+.p13{
+    width: 390px;
+    font-size: 23px;
+    color: #E12726;
+    margin: 0;
+    font-family: 'open_sanslight';
+    margin-top: 45px;
+    margin-left: 17141px;
+}
+
+.p14{
+    width: 350px;
+    font-size: 23px;
+    color: #E12726;
+    margin: 0;
+    font-family: 'open_sanslight';
+    margin-top: 206px;
+    margin-left: 17501px;
 }
 
 #prop1{
@@ -417,7 +455,7 @@ body { margin:0; padding:0;
     position: absolute;
     top: 60px;
     left: 13771px;
-    opacity: 1;
+    opacity: 0;
     z-index: 1;
 }
 
@@ -427,28 +465,50 @@ body { margin:0; padding:0;
     position: absolute;
     top: 490px;
     left: 13371px;
-    opacity: 1;
+    opacity: 0;
+    z-index: 1;
+}
+
+#prop3{
+    width: 371px;
+    height: 371px;
+    position: absolute;
+    top: 180px;
+    left: 17571px;
+    opacity: 0;
+    z-index: 1;
+}
+
+#prop4{
+    width: 371px;
+    height: 371px;
+    position: absolute;
+    top: 490px;
+    left: 17071px;
+    opacity: 0;
     z-index: 1;
 }
 
 
 
 .propositos{
-    background-color: #FFF0DE;
-    width: 800px;
-    height: 400px;
+    background-image: url(../img/letter.png);
+    background-size: 1238px 838px;
+    width: 1040px;
+    height: 740px;
     padding: 50px;
-    border-radius: 30px;
-    margin-left: 15800px;
+    margin-left: 15600px;
+    margin-top: -240px;
+    opacity: 0;
     
 }
 
 .propositos p{
-    
+    width: 700px;
     color: #E12726;
-    font-family: 'open_sanslight'; 
-    font-size: 20px; 
-    text-decoration:underline;
+    font-family: 'open_sanslight';
+    font-size: 19px;
+    margin-left: 200px;
 }
 #confetti{
     background: transparent;
