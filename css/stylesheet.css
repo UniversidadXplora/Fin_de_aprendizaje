@@ -39,7 +39,7 @@ b{
 
 body { margin:0; padding:0;
     overflow-y: hidden;
-    width: 19940px!important;
+    width: 23780px!important;
     height: 1080px!important;
     position: relative;
     background-image: url("../img/fondofullf.png");
@@ -69,7 +69,7 @@ body { margin:0; padding:0;
     height: 600px;
     position: absolute;
     top: 120px;
-    left: 18690px;
+    left: 22520px;
     opacity: 1;
 }
 
@@ -187,20 +187,22 @@ body { margin:0; padding:0;
 
 
 .title{
-    font-size: 100px;
+    font-size: 62px;
     color: #E12726;
     margin: 0;
     font-family: 'open_sansbold';
-    margin-left: 2000px;
+    margin-left: 1970px;
+    width: 600px;
 }
 
 .title1{
-    font-size: 100px;
+    font-size: 65px;
     color: #fff;
     margin: 0;
-    margin-top: 200px;
+    margin-top: -20px;
     font-family: 'open_sansbold';
-    margin-left:4100px;
+    margin-left: 4060px;
+    width: 800px;
 }
 
 .title2{
@@ -208,21 +210,21 @@ body { margin:0; padding:0;
     font-size: 30px;
     color: #fff;
     margin: 0;
-    margin-top: -592px;
+    margin-top: -492px;
     font-family: 'open_sansbold';
     margin-left: 5210px;
 }
 
 .title3{
-    font-size: 100px;
-    color:#E12726;
+    font-size: 70px;
+    color: #E12726;
     margin: 0;
     font-family: 'open_sansbold';
-    margin-left: 10670px;
-    margin-top: -460px;
+    margin-left: 10570px;
+    margin-top: -420px;
 }
 .title4{
-    font-size: 100px;
+    font-size: 80px;
     color:#fff;
     margin: 0;
     font-family: 'open_sansbold';
@@ -231,12 +233,12 @@ body { margin:0; padding:0;
 }
 
 .title5{
-    font-size: 100px;
-    color:#fff;
+    font-size: 80px;
+    color: #fff;
     margin: 0;
     font-family: 'open_sansbold';
     margin-left: 14900px;
-    margin-top: -760px;
+    margin-top: -690px;
 }
 
 .title6{
@@ -246,6 +248,26 @@ body { margin:0; padding:0;
     font-family: 'open_sansbold';
     margin-left: 16980px;
     margin-top: -880px;
+}
+
+.title7{
+    width: 550px;
+    font-size: 50px;
+    color: #fff;
+    margin: 0;
+    font-family: 'open_sansbold';
+    margin-left: 18100px;
+    margin-top: -670px;
+}
+
+.title8{
+    width: 550px;
+    font-size: 50px;
+    color: #fff;
+    margin: 0;
+    font-family: 'open_sansbold';
+    margin-left: 20320px;
+    margin-top: -270px;
 }
 
 .p1{
@@ -309,7 +331,7 @@ body { margin:0; padding:0;
 }
 
 .sub{
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 
@@ -375,7 +397,7 @@ body { margin:0; padding:0;
     color: #E12726;
     margin: 0;
     font-family: 'open_sanslight';
-    margin-top: 290px;
+    margin-top: 340px;
     margin-left: 11403px;
 }
 
@@ -435,7 +457,7 @@ body { margin:0; padding:0;
     color: #E12726;
     margin: 0;
     font-family: 'open_sanslight';
-    margin-top: 45px;
+    margin-top: 125px;
     margin-left: 17141px;
 }
 
@@ -497,8 +519,8 @@ body { margin:0; padding:0;
     width: 1040px;
     height: 740px;
     padding: 50px;
-    margin-left: 15600px;
-    margin-top: -240px;
+    margin-left: 15700px;
+    margin-top: -200px;
     opacity: 0;
     
 }
@@ -510,6 +532,112 @@ body { margin:0; padding:0;
     font-size: 19px;
     margin-left: 200px;
 }
+
+#done_1{
+    width: 287px;
+    height: 1216px;
+    position: absolute;
+    top: -349px;
+    left: 18589px;
+    opacity: 0;
+    z-index: 1;
+}
+
+#done_2{
+    width: 287px;
+    height: 1211px;
+    position: absolute;
+    top: -288px;
+    left: 18870px;
+    opacity: 0;
+    z-index: 1;
+
+}
+
+#done_3{
+    width: 286px;
+    height: 1220px;
+    position: absolute;
+    top: -350px;
+    left: 19150px;
+    opacity: 0;
+    z-index: 1;
+
+}
+#done_4{
+    width: 286px;
+    height: 1217px;
+    position: absolute;
+    top: -284px;
+    left: 19430px;
+    opacity: 0;
+    z-index: 1;
+
+}
+#done_5{
+    width: 286px;
+    height: 1257px;
+    position: absolute;
+    top: -350px;
+    left: 19711px;
+    opacity: 0;
+    z-index: 1;
+
+}
+#done_6{
+    width: 287px;
+    height: 1219px;
+    position: absolute;
+    top: -280px;
+    left: 19990px;
+    opacity: 0;
+    z-index: 1;
+
+}
+
+
+#pro_1{
+    width: 287px;
+    height: 937px;
+    position: absolute;
+    top: -49px;
+    left: 20617px;
+    opacity: 0;
+    z-index: 1;
+}
+
+#pro_2{
+    width: 287px;
+    height: 1211px;
+    position: absolute;
+    top: -258px;
+    left: 20940px;
+    opacity: 0;
+    z-index: 1;
+
+}
+
+#pro_3{
+    width: 286px;
+    height: 1220px;
+    position: absolute;
+    top: -330px;
+    left: 21256px;
+    opacity: 0;
+    z-index: 1;
+
+}
+#pro_4{
+    width: 286px;
+    height: 1217px;
+    position: absolute;
+    top: -271px;
+    left: 21570px;
+    opacity: 0;
+    z-index: 1;
+
+}
+
 #confetti{
     background: transparent;
     height: 100%;
